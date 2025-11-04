@@ -4,5 +4,5 @@ namespace softwareEngineering.Controllers;
 
 public class TrialController: Controller
 {
-    
+    //
 }
